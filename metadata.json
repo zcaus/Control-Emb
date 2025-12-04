@@ -1,0 +1,5 @@
+{
+  "name": "Foxmix Production Control",
+  "description": "A production dashboard system that calculates KPIs automatically from a spreadsheet-like input view.",
+  "requestFramePermissions": []
+}
